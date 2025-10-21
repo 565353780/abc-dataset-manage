@@ -6,4 +6,5 @@ def demo():
 
     unzipper = Unzipper(dataset_root_folder_path)
 
-    unzipper.unzip("step", 0)
+    unzipper.unzip("obj", 0)
+    unzipper.unzip("feat", 0)
